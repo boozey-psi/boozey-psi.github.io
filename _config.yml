@@ -2,8 +2,6 @@ theme: coffeescript
 title: Sara Butler
 author: Sara Butler
 
-header_pages:
-  - cv.md
 
 minima:
   date_format: "%Y-%m-%d"
