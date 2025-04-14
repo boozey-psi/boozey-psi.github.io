@@ -1,7 +1,9 @@
-theme: coffeescript
+theme: minima
 title: Sara Butler
 author: Sara Butler
 
+# Minima: show excerpts in the frontpage
+show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
