@@ -1,9 +1,6 @@
 ---
-layout: default
-title: About Me
-nav_order: 5
-has_children: true
+permalink: /about
+layout: page
+title: About me
 ---
-
-# About me
 
