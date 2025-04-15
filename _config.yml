@@ -20,6 +20,8 @@ show_excerpts: true
 minima:
   date_format: "%Y-%m-%d"
 
+google_analytics: G-HJ6840WB2S
+
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
