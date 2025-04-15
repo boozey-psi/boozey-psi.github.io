@@ -1,12 +1,11 @@
-theme: minima
 title: Sara Butler
-author: Sara Butler
+description: Sara's personal website
+author: "Sara Butler"
 
-# Minima: show excerpts in the frontpage
-show_excerpts: true
+theme: minima
 
-minima:
-  date_format: "%d-%m-%Y"
+base_url: /
+repository: boozey-psi/boozey-psi.github.io
 
 # Minima social links
 github_username: boozey-psi
@@ -14,6 +13,12 @@ linkedin_username: saraabutler
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%d-%m-%Y"
 
 # Minima: custom header links
 header_pages:
