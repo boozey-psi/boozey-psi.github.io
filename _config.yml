@@ -4,8 +4,8 @@ author: "Sara Butler"
 
 theme: minima
 
-base_url: /
-repository: boozey-psi/boozey-psi.github.io
+base_url: /gh-pages-minima-starter
+repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
 github_username: boozey-psi
