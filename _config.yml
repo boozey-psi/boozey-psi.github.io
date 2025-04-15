@@ -18,7 +18,7 @@ show_excerpts: true
 show_excerpts: true
 
 minima:
-  date_format: "%d-%m-%Y"
+  date_format: "%Y-%m-%d"
 
 # Minima: custom header links
 header_pages:
