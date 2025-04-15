@@ -12,6 +12,9 @@ minima:
 github_username: boozey-psi
 linkedin_username: saraabutler
 
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
