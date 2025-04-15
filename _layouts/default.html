@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }{% include GoogleTagManager_head.liquid %}}</title>
   </head>
   <body>
     {{ content }}
