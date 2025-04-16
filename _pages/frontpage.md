@@ -5,7 +5,7 @@ title: Welcome
 list_title: Recent posts
 ---
 
-<img align="right" src="./assets/imgs/selfie.jpg" width="200px"/>
+<img align="left" src="./assets/imgs/selfie.jpg" width="200px"/>
 Hello! I’m a PhD student at the University of Vienna and at the Institute for Quantum Optics and Quantum Information in Vienna. My research in theoretical physics focuses on the intersection of gravity and quantum theory. 
 
 
