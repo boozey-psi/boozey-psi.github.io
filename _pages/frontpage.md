@@ -7,4 +7,4 @@ list_title: My blog posts
 
 
 
-<img src="./assets/imgs/screenshot.png" width="400px">
+<img src="./assets/imgs/selfie.jpg" width="400px">
