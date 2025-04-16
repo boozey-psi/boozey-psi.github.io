@@ -15,6 +15,5 @@ list_title: My blog posts
             {% else %}
               {{ post.content | truncatewords: 50 }}
             {% endif %}
-            <a href="{{ post.url }}" class="read-more">Read More</a>
           </article>
         {% endfor %}
