@@ -14,7 +14,6 @@ list_title: Recent posts
   gtag('config', 'G-HJ6840WB2S');
 </script>
 
-<img style="float: right;" src="./assets/imgs/JOSI3696.jpg" width="140px"/>
 
 Hello! I’m a PhD student at the University of Vienna and at the Institute for Quantum Optics and Quantum Information in Vienna. My research in theoretical physics focuses on the intersection of gravity and quantum theory. 
 
